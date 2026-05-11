@@ -12,3 +12,7 @@ Comes with other features, extension bar icon enable that in the extension detai
 Search page UI has buttons to block domains quickly.
 
 Manifest V3 extension.
+
+The realease page files is missing the icons folder and 3 icons that belong in it, because, I cannot upload a folder structure to github and github will not accept uplading of empty icon files. But they are needed.
+
+I zipped the entire folder structure to just remove this hassle. To keep Folder structure intact.
